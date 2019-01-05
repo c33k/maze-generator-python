@@ -22,6 +22,8 @@ brew install mplayer
 
 Generate maze using Depth First Search algorithm, as per [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm).
 
+![dfs/maze.py example](/dfs/maze.png)
+
 To run the generator, enter in the dfs directory...
 ```
 cd dfs
